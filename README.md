@@ -22,11 +22,6 @@ To install and run GradeBookApp, follow these steps:
     cd GradeBookApp
     ```
 
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 3. **Run the application**:
     ```bash
     python gradebook_app.py
@@ -86,12 +81,6 @@ To install and run GradeBookApp, follow these steps:
 - **policy.py**: Defines the `GradingPolicy` class to manage grading policies.
 - **studentrepo.py**: Handles reading and writing student records to and from files.
 - **policyrepo.py**: Handles reading and writing grading policies to and from files.
-- **requirements.txt**: Lists the dependencies required to run the application.
 
-## Dependencies
 
-Ensure you have the following dependencies installed:
-
-- Python 3.x
-- Any other dependencies listed in `requirements.txt`
 
